@@ -1,0 +1,36 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+WORK INTEGRATED LEARNING PROGRAMMES
+Cloud Computing (CSI ZG527 / SS ZG527 / SE ZG527)
+Second Semester 2020-2021
+Assignment
+ (Total Marks: 5)
+Each student is required to do this assignment. The deadline for this assignment submission
+is April 20, 2021. There are two questions totally, and each question carries 2.5 marks. This
+assignment aims to get every student to understand the concepts of a simple web application
+development using any one of the cloud computing’s PaaS (Platform as a Service) model and
+solve a word count problem using the MapReduce programming model. Each of the questions
+is provided below:
+1. Develop and deploy a simple web application-based login form using either Google App
+Engine or Microsoft Azure or AWS (Amazon Web Service) Elastic Beanstalk. This
+application should accept the username and password and then display a message “Login
+Successfully” after successful validation. Otherwise, display “Login failed due to incorrect
+username and password”. This application can be implemented using any programming
+language of your choice (HTML with Python, Java, etc.). [2.5 Marks]
+2. Write a MapReduce based program to display/generate a word count for each unique
+keyword of any given text document. This program can be implemented either locally on
+your system or on a virtual machine created using AWS EC2 or Google Cloud Platform’s
+Compute Engine. [2.5 Marks]
+Submission Instructions:
+Create one main folder that contains two sub folders, which represent the above two
+questions respectively. Each of the sub-folders should contain the source code, one MS
+word document capturing the screenshots of the outputs and the observations if any. Each
+subfolder (if necessary) should also contain a read file specifying instructions to compile
+and run and shall also specify which program to be run first in order to see the expected
+output from your programs.
+The main folder must contain one main word file that must include student name, roll
+no and email id of each student.
+Zip the main folder and upload the zip file on BITS elearn portal (https://taxila-aws.bitspilani.ac.in/) by April 20, 2021 23.59 pm
+Note: This assignment will be evaluated purely based on the output screenshots and the descriptive
+information that you provide for each of the given question. Hence, you are expected to provide
+more detailed information explaining how you got the outputs for each question in a corresponding
+word document file. 
